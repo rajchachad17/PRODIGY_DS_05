@@ -1,10 +1,12 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 anaconda_projects/
-assets/
 
 # Large/raw dataset
 US_Accidents_March23.csv
+
+# Clean dataset
+assets/task5_clean.csv
 
 # Python
 __pycache__/
