@@ -8,6 +8,7 @@ US_Accidents_March23.csv
 # Clean dataset
 assets/task5_clean.csv
 
+# Outputs
 assets/state_choropleth.html
 assets/accident_hotspots.html 
 
